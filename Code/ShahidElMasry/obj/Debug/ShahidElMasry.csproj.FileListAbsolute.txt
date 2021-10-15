@@ -1,0 +1,75 @@
+C:\Users\C\source\repos\ShahidElMasry\ShahidElMasry\bin\Debug\ShahidElMasry.exe.config
+C:\Users\C\source\repos\ShahidElMasry\ShahidElMasry\bin\Debug\ShahidElMasry.exe
+C:\Users\C\source\repos\ShahidElMasry\ShahidElMasry\bin\Debug\ShahidElMasry.pdb
+C:\Users\C\source\repos\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.csprojAssemblyReference.cache
+C:\Users\C\source\repos\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.Properties.Resources.resources
+C:\Users\C\source\repos\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.csproj.GenerateResource.cache
+C:\Users\C\source\repos\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.csproj.CoreCompileInputs.cache
+C:\Users\C\source\repos\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.exe
+C:\Users\C\source\repos\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.pdb
+C:\Users\C\source\repos\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.Login.resources
+C:\Users\C\source\repos\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.Home.resources
+C:\Users\C\source\repos\ShahidElMasry\ShahidElMasry\bin\Debug\Interop.WMPLib.dll
+C:\Users\C\source\repos\ShahidElMasry\ShahidElMasry\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\C\source\repos\ShahidElMasry\ShahidElMasry\obj\Debug\Interop.WMPLib.dll
+C:\Users\C\source\repos\ShahidElMasry\ShahidElMasry\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\C\source\repos\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.csproj.ResolveComReference.cache
+C:\Users\C\source\repos\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.VideoUC.resources
+C:\Users\C\source\repos\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.PremiumUC.resources
+C:\Users\C\source\repos\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.VideoDetails.resources
+C:\Users\C\source\repos\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.ProfileUC.resources
+C:\Users\C\source\repos\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.Admin.resources
+C:\Users\C\source\repos\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.VideoEdit.resources
+C:\Users\farah\Desktop\College\3rd year\2nd Term\DB\ShahidElMasry\ShahidElMasry\bin\Debug\ShahidElMasry.exe
+C:\Users\farah\Desktop\College\3rd year\2nd Term\DB\ShahidElMasry\ShahidElMasry\bin\Debug\ShahidElMasry.exe.config
+C:\Users\farah\Desktop\College\3rd year\2nd Term\DB\ShahidElMasry\ShahidElMasry\bin\Debug\Oracle.DataAccess.dll
+C:\Users\farah\Desktop\College\3rd year\2nd Term\DB\ShahidElMasry\ShahidElMasry\obj\Debug\Interop.WMPLib.dll
+C:\Users\farah\Desktop\College\3rd year\2nd Term\DB\ShahidElMasry\ShahidElMasry\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\farah\Desktop\College\3rd year\2nd Term\DB\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.csproj.ResolveComReference.cache
+C:\Users\farah\Desktop\College\3rd year\2nd Term\DB\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.Admin.resources
+C:\Users\farah\Desktop\College\3rd year\2nd Term\DB\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.Login.resources
+C:\Users\farah\Desktop\College\3rd year\2nd Term\DB\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.Home.resources
+C:\Users\farah\Desktop\College\3rd year\2nd Term\DB\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.PremiumUC.resources
+C:\Users\farah\Desktop\College\3rd year\2nd Term\DB\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.ProfileUC.resources
+C:\Users\farah\Desktop\College\3rd year\2nd Term\DB\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.Properties.Resources.resources
+C:\Users\farah\Desktop\College\3rd year\2nd Term\DB\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.VideoDetails.resources
+C:\Users\farah\Desktop\College\3rd year\2nd Term\DB\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.VideoEdit.resources
+C:\Users\farah\Desktop\College\3rd year\2nd Term\DB\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.VideoUC.resources
+C:\Users\farah\Desktop\College\3rd year\2nd Term\DB\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.csproj.GenerateResource.Cache
+C:\Users\farah\Desktop\College\3rd year\2nd Term\DB\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.exe
+C:\Users\farah\Desktop\College\3rd year\2nd Term\DB\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.pdb
+C:\Users\farah\Desktop\College\3rd year\2nd Term\DB\ShahidElMasry\ShahidElMasry\bin\Debug\ShahidElMasry.pdb
+C:\Users\farah\Desktop\College\3rd year\2nd Term\DB\ShahidElMasry\ShahidElMasry\bin\Debug\Interop.WMPLib.dll
+C:\Users\farah\Desktop\College\3rd year\2nd Term\DB\ShahidElMasry\ShahidElMasry\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\farah\Desktop\College\3rd year\2nd Term\DB\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.csprojResolveAssemblyReference.cache
+C:\Users\farah\Desktop\College\3rd year\2nd Term\DB\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.PlayVideo.resources
+C:\Users\farah\Desktop\College\3rd year\2nd Term\ShahidElMasry\ShahidElMasry\bin\Debug\ShahidElMasry.exe.config
+C:\Users\farah\Desktop\College\3rd year\2nd Term\ShahidElMasry\ShahidElMasry\obj\Debug\Interop.WMPLib.dll
+C:\Users\farah\Desktop\College\3rd year\2nd Term\ShahidElMasry\ShahidElMasry\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\farah\Desktop\College\3rd year\2nd Term\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.csproj.ResolveComReference.cache
+C:\Users\farah\Desktop\College\3rd year\2nd Term\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.exe
+C:\Users\farah\Desktop\College\3rd year\2nd Term\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.pdb
+C:\Users\farah\Desktop\College\3rd year\2nd Term\ShahidElMasry\ShahidElMasry\bin\Debug\ShahidElMasry.exe
+C:\Users\farah\Desktop\College\3rd year\2nd Term\ShahidElMasry\ShahidElMasry\bin\Debug\ShahidElMasry.pdb
+C:\Users\farah\Desktop\College\3rd year\2nd Term\ShahidElMasry\ShahidElMasry\bin\Debug\Oracle.DataAccess.dll
+C:\Users\farah\Desktop\College\3rd year\2nd Term\ShahidElMasry\ShahidElMasry\bin\Debug\Interop.WMPLib.dll
+C:\Users\farah\Desktop\College\3rd year\2nd Term\ShahidElMasry\ShahidElMasry\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\farah\Desktop\College\3rd year\2nd Term\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.csprojResolveAssemblyReference.cache
+C:\Users\farah\Desktop\College\3rd year\2nd Term\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.Admin.resources
+C:\Users\farah\Desktop\College\3rd year\2nd Term\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.Login.resources
+C:\Users\farah\Desktop\College\3rd year\2nd Term\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.Home.resources
+C:\Users\farah\Desktop\College\3rd year\2nd Term\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.PlayVideo.resources
+C:\Users\farah\Desktop\College\3rd year\2nd Term\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.PremiumUC.resources
+C:\Users\farah\Desktop\College\3rd year\2nd Term\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.ProfileUC.resources
+C:\Users\farah\Desktop\College\3rd year\2nd Term\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.Properties.Resources.resources
+C:\Users\farah\Desktop\College\3rd year\2nd Term\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.VideoDetails.resources
+C:\Users\farah\Desktop\College\3rd year\2nd Term\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.VideoEdit.resources
+C:\Users\farah\Desktop\College\3rd year\2nd Term\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.VideoUC.resources
+C:\Users\farah\Desktop\College\3rd year\2nd Term\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.csproj.GenerateResource.Cache
+C:\Users\farah\Desktop\College\3rd year\2nd Term\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.Report.resources
+C:\Users\farah\Desktop\College\3rd year\2nd Term\DB\Project - Sahid\ShahidElMasry\ShahidElMasry\bin\Debug\ShahidElMasry.exe.config
+C:\Users\farah\Desktop\College\3rd year\2nd Term\DB\Project - Sahid\ShahidElMasry\ShahidElMasry\obj\Debug\Interop.WMPLib.dll
+C:\Users\farah\Desktop\College\3rd year\2nd Term\DB\Project - Sahid\ShahidElMasry\ShahidElMasry\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\farah\Desktop\College\3rd year\2nd Term\DB\Project - Sahid\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.csproj.ResolveComReference.cache
+C:\Users\farah\Desktop\College\3rd year\2nd Term\DB\Project - Sahid\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.exe
+C:\Users\farah\Desktop\College\3rd year\2nd Term\DB\Project - Sahid\ShahidElMasry\ShahidElMasry\obj\Debug\ShahidElMasry.pdb
